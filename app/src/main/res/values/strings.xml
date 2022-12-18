@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CategoryChoose</string>
+    <string name="greeting">Смахните категорию влево, чтобы изменить выбор.</string>
+</resources>
